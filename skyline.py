@@ -6,7 +6,6 @@ def myfunc(string):
         else:
             i = i.lower()
         newString += i
-        print(newString)
     return newString
 
 
