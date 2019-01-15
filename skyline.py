@@ -9,4 +9,4 @@ def myfunc(string):
     return newString
 
 
-myfunc('HitvArdhan')
+myfunc('Test')
